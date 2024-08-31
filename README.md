@@ -48,7 +48,13 @@
 
 <p align="center">
   <br>
-  <a href="https://www.linkedin.com/in/louis-sanson" target="_blank">📫 LinkedIn</a>
+    
+  <a href="https://www.linkedin.com/in/louis-sanson" target="_blank">
+    <img src="https://img.icons8.com/?size=70&id=13930&format=png&color=000000" alt="LinkedInlogo"/>
+  </a>
+  <a href="https://github.com/Louissnsn" target="_blank">
+    <img src="https://img.icons8.com/?size=70&id=52539&format=png&color=000000" alt="GitHublogo" />
+  </a>
 </p>
 
 <p align="center">
