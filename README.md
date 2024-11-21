@@ -22,9 +22,8 @@
   <img src="https://img.icons8.com/?size=100&id=21278&format=png&color=000000" alt="CSS" title="CSS"/>
   <img src="https://img.icons8.com/?size=100&id=54087&format=png&color=000000" alt="Node.js" title="Node.js"/>
   <img src="https://img.icons8.com/?size=100&id=xBKl2pdJg5kk&format=png&color=000000" alt="Git" title="Git"/>
-  <img src="https://img.icons8.com/?size=100&id=52539&format=png&color=000000" alt="GitHub" title="GitHub"/>
-  <img src="https://github.com/user-attachments/assets/774ae5f5-976e-44dd-a673-b329e6ff1bcc" alt="React" title ="React" />
-  <img src="https://img.icons8.com/?size=100&id=o6OvAxG0nzTH&format=png&color=000000" alt="MongoDB" title="MongoDB"/>
+  <img src="https://img.icons8.com/?size=100&id=123603&format=png&color=000000" alt="React" title ="React" />
+  <img src="https://img.icons8.com/?size=100&id=bosfpvRzNOG8&format=png&color=000000" alt="MongoDB" title="MongoDB"/>
   <img src="https://img.icons8.com/?size=100&id=2ZOaTclOqD4q&format=png&color=000000" alt="Express" title="Express"/>
   <img src="https://img.icons8.com/?size=100&id=IaHmaUtKc8bf&format=png&color=000000" alt="TypeScript" title="TypeScript"/>
   <img src="https://img.icons8.com/?size=100&id=13679&format=png&color=000000" alt="Java" title="Java" /> 
