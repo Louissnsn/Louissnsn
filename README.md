@@ -3,7 +3,7 @@
 </h1>
 
 <p align="center">
-  Currently working as a web developer 💻 and a bootcamp teacher at <a href="https://www.lacapsule.academy/" target="_blank">La Capsule 🚀</a> <br>
+  Currently looking for an apprenticeship as a web developer 💻 and used to be bootcamp teacher at <a href="https://www.lacapsule.academy/" target="_blank">La Capsule 🚀</a> <br>
   <br>
   I am passionate about technologies and love to learn new things.
 </p>
@@ -17,16 +17,18 @@
 </h2>
 
 <p align="center">
-  <img src="https://img.icons8.com/?size=100&id=V6HShIzw21x7&format=png&color=000000" alt="JavaScript" title="JavaScript"/>
-  <img src="https://img.icons8.com/?size=100&id=CMVEhOBzk3Zp&format=png&color=000000" alt="HTML" title="HTML"/>
-  <img src="https://img.icons8.com/?size=100&id=5cVdiiKKi0vX&format=png&color=000000" alt="CSS" title="CSS"/>
-  <img src="https://img.icons8.com/?size=100&id=ouWtcsgDBiwO&format=png&color=000000" alt="Node.js" title="Node.js"/>
+  <img src="https://img.icons8.com/?size=100&id=108784&format=png&color=000000" alt="JavaScript" title="JavaScript"/>
+  <img src="https://img.icons8.com/?size=100&id=20909&format=png&color=000000" alt="HTML" title="HTML"/>
+  <img src="https://img.icons8.com/?size=100&id=21278&format=png&color=000000" alt="CSS" title="CSS"/>
+  <img src="https://img.icons8.com/?size=100&id=54087&format=png&color=000000" alt="Node.js" title="Node.js"/>
   <img src="https://img.icons8.com/?size=100&id=xBKl2pdJg5kk&format=png&color=000000" alt="Git" title="Git"/>
   <img src="https://img.icons8.com/?size=100&id=52539&format=png&color=000000" alt="GitHub" title="GitHub"/>
   <img src="https://github.com/user-attachments/assets/774ae5f5-976e-44dd-a673-b329e6ff1bcc" alt="React" title ="React" />
   <img src="https://img.icons8.com/?size=100&id=o6OvAxG0nzTH&format=png&color=000000" alt="MongoDB" title="MongoDB"/>
   <img src="https://img.icons8.com/?size=100&id=2ZOaTclOqD4q&format=png&color=000000" alt="Express" title="Express"/>
   <img src="https://img.icons8.com/?size=100&id=IaHmaUtKc8bf&format=png&color=000000" alt="TypeScript" title="TypeScript"/>
+  <img src="https://img.icons8.com/?size=100&id=13679&format=png&color=000000" alt="Java" title="Java" /> 
+  <img src="https://img.icons8.com/?size=100&id=71257&format=png&color=000000" alt="Angular" title="Angular" />
 </p>
 
 <br>
