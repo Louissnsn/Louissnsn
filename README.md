@@ -3,7 +3,7 @@
 </h1>
 
 <p align="center">
-  Currently looking for an apprenticeship as a web developer 💻 and used to be bootcamp teacher at <a href="https://www.lacapsule.academy/" target="_blank">La Capsule 🚀</a> <br>
+  Currently looking for a job as a web developer 💻 and used to be bootcamp teacher at <a href="https://www.lacapsule.academy/" target="_blank">La Capsule 🚀</a> <br>
   <br>
   I am passionate about technologies and love to learn new things.
 </p>
