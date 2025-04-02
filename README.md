@@ -24,7 +24,6 @@
   <img src="https://img.icons8.com/?size=100&id=bosfpvRzNOG8&format=png&color=000000" alt="MongoDB" title="MongoDB"/>
   <img src="https://img.icons8.com/?size=100&id=2ZOaTclOqD4q&format=png&color=000000" alt="Express" title="Express"/>
   <img src="https://img.icons8.com/?size=100&id=IaHmaUtKc8bf&format=png&color=000000" alt="TypeScript" title="TypeScript"/>
-  <img src="https://img.icons8.com/?size=100&id=13679&format=png&color=000000" alt="Java" title="Java"/>
   <img src="https://img.icons8.com/?size=100&id=71257&format=png&color=000000" alt="Angular" title="Angular"/>
 </p>
 
