@@ -36,6 +36,7 @@
 <p align="center">
   <img src="https://img.icons8.com/?size=100&id=44442&format=png&color=000000" alt="Golang" title="Golang"/>
   <img src="https://img.icons8.com/?size=100&id=13441&format=png&color=000000" alt="Python" title="Python"/>
+  <img src="https://img.icons8.com/?size=100&id=AeV543ttZrcT&format=png&color=000000" alt="Rust" title="Rust"/>
 </p>
 
 <br>
