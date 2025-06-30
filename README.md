@@ -6,6 +6,7 @@
   Currently looking for a job as a web developer 💻 and previously a dev and bootcamp teacher at <a href="https://www.lacapsule.academy/" target="_blank">La Capsule 🚀</a>
   <br><br>
   I am passionate about technologies and love to learn new things.
+  Here's my small  <a href="https://www.louissanson.dev/" target="_blank">website</a>
 </p>
 
 <br>
