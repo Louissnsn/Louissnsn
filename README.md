@@ -44,16 +44,6 @@
 
 <hr/>
 
-<h2 align="center">📈 GitHub Stats</h2>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Louissnsn&show_icons=true&theme=transparent&hide_border=true" alt="Louis's GitHub stats" />
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Louissnsn&layout=compact&theme=transparent&hide_border=true" />
-</p>
-
-<hr/>
-
 <h2 align="center">💌 Let's Connect</h2>
 
 <p align="center">
