@@ -1,62 +1,70 @@
 <h1 align="center">
-  👋 Hi there, I'm Louis!
+  👋 Hey there, I'm <strong>Louis Sanson</strong>!
 </h1>
 
 <p align="center">
-  Currently looking for a job as a web developer 💻 and previously a dev and bootcamp teacher at <a href="https://www.lacapsule.academy/" target="_blank">La Capsule 🚀</a>
-  <br><br>
-  I am passionate about technologies and love to learn new things.
-  Here's my small  <a href="https://www.louissanson.dev/" target="_blank">website</a>
+  <em>Curious mind • Clean code enthusiast • Design-aware developer</em>
 </p>
-
-<br>
-
-<h2 align="center">
-  🛠️ My Tech Stack
-</h2>
 
 <p align="center">
-  <img src="https://img.icons8.com/?size=100&id=108784&format=png&color=000000" alt="JavaScript" title="JavaScript"/>
-  <img src="https://img.icons8.com/?size=100&id=20909&format=png&color=000000" alt="HTML" title="HTML"/>
-  <img src="https://img.icons8.com/?size=100&id=21278&format=png&color=000000" alt="CSS" title="CSS"/>
-  <img src="https://img.icons8.com/?size=100&id=54087&format=png&color=000000" alt="Node.js" title="Node.js"/>
-  <img src="https://img.icons8.com/?size=100&id=xBKl2pdJg5kk&format=png&color=000000" alt="Git" title="Git"/>
-  <img src="https://img.icons8.com/?size=100&id=123603&format=png&color=000000" alt="React" title="React"/>
-  <img src="https://img.icons8.com/?size=100&id=bosfpvRzNOG8&format=png&color=000000" alt="MongoDB" title="MongoDB"/>
-  <img src="https://img.icons8.com/?size=100&id=2ZOaTclOqD4q&format=png&color=000000" alt="Express" title="Express"/>
-  <img src="https://img.icons8.com/?size=100&id=IaHmaUtKc8bf&format=png&color=000000" alt="TypeScript" title="TypeScript"/>
-  <img src="https://img.icons8.com/?size=100&id=71257&format=png&color=000000" alt="Angular" title="Angular"/>
+  🚀 Former <strong>teacher & developer</strong> at 
+  <a href="https://www.lacapsule.academy/" target="_blank">La Capsule</a>  
+  <br/>
+  💻 Currently looking for a <strong>web developer</strong> position  
+  <br/><br/>
+  🌐 Check out my portfolio → <a href="https://www.louissanson.dev/" target="_blank"><strong>louissanson.dev</strong></a>
 </p>
 
-<br>
+<hr/>
 
-<h2 align="center">
-  📖 What I am Learning / Want to Learn
-</h2>
+<h2 align="center">🛠️ My Tech Stack</h2>
 
 <p align="center">
-  <img src="https://img.icons8.com/?size=100&id=44442&format=png&color=000000" alt="Golang" title="Golang"/>
-  <img src="https://img.icons8.com/?size=100&id=13441&format=png&color=000000" alt="Python" title="Python"/>
-  <img src="https://img.icons8.com/?size=100&id=AeV543ttZrcT&format=png&color=000000" alt="Rust" title="Rust"/>
+  <img src="https://skillicons.dev/icons?i=js,ts,html,css,react,nodejs,express,mongodb,git,angular" />
 </p>
 
-<br>
+<hr/>
 
-<h2 align="center">
-  💌 Contact Me
-</h2>
+<h2 align="center">📚 Currently Learning</h2>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=go,python,rust,aws,docker" />
+</p>
+
+<hr/>
+
+<h2 align="center">🌱 About Me</h2>
+
+<p align="center">
+  I love building web applications that are <strong>fast, accessible, and meaningful</strong>.  
+  My background as a <strong>teacher</strong> makes me value clarity, simplicity, and continuous learning.  
+  <br/><br/>
+  When I’m not coding, you’ll find me climbing 🧗‍♂️ or exploring design ideas 🎨.
+</p>
+
+<hr/>
+
+<h2 align="center">📈 GitHub Stats</h2>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Louissnsn&show_icons=true&theme=transparent&hide_border=true" alt="Louis's GitHub stats" />
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Louissnsn&layout=compact&theme=transparent&hide_border=true" />
+</p>
+
+<hr/>
+
+<h2 align="center">💌 Let's Connect</h2>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/louis-sanson" target="_blank">
-    <img src="https://img.icons8.com/?size=70&id=13930&format=png&color=000000" alt="LinkedIn logo"/>
+    <img src="https://skillicons.dev/icons?i=linkedin" height="60"/>
   </a>
   <a href="https://github.com/Louissnsn" target="_blank">
-    <img src="https://img.icons8.com/?size=70&id=52539&format=png&color=000000" alt="GitHub logo"/>
+    <img src="https://skillicons.dev/icons?i=github" height="60"/>
   </a>
 </p>
 
-<br>
-
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Louissnsn&color=green" alt="Profile views"/>
+  <img src="https://komarev.com/ghpvc/?username=Louissnsn&color=brightgreen" alt="Profile views"/>
 </p>
